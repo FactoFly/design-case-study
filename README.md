@@ -22,4 +22,5 @@ Your objective is to redesign the invoice details page, enhancing the clarity of
 4. **Practicality and Feasibility:** Practicality and feasibility of implementing the proposed design.
 
 ## Existing page for reference
-![image](https://github.com/FactoFly/ux-case-study/assets/104838081/202b088f-a052-4c8f-9c27-9e4bb5b10faa)
+![image](https://github.com/FactoFly/ux-case-study/assets/104838081/da6ba115-c21a-4548-a132-fc5c4ffdf7bd)
+
